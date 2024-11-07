@@ -9,7 +9,8 @@
 <h4>  Контакты для связи со мной:</h4>
 <p>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)] https://www.linkedin.com/in/lysinskii/))
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/lysinskii/)
+
 
 </p>
 <hr>
